@@ -4,8 +4,11 @@ This report aim as modeling stock index time series by ARIMA, GARCH and multivar
 
 ## Sections
 1.	INTRODUCTION	3
+
 1.1	Introduction to Index Investing	3
+
 1.2	Motivation	4
+
 2.	EXPLORATORY DATA ANALYSIS	5
 2.1	Data-at-a-glance	5
 2.2	Data Cleaning	6
@@ -38,4 +41,4 @@ This report aim as modeling stock index time series by ARIMA, GARCH and multivar
 5.2	Model Limitation	26
 6.	CONCLUSION	27
 Reference	28
-Appendix	30# HKUST-MSBD-5006-Quantitative-Analysis-of-Financial-Time-Series
+Appendix	30

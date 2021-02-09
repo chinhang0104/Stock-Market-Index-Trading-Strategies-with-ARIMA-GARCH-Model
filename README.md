@@ -3,7 +3,7 @@
 This report aim as modeling stock index time series by ARIMA, GARCH and multivariate models. The R code is attachded at the appendix of the report. 
 
 ## Sections
-'''
+```
 1.	INTRODUCTION	3
 1.1	Introduction to Index Investing	3
 1.2	Motivation	4
@@ -40,4 +40,4 @@ This report aim as modeling stock index time series by ARIMA, GARCH and multivar
 6.	CONCLUSION	27
 Reference	28
 Appendix	30
-'''
+```
